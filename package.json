@@ -1,5 +1,6 @@
 {
   "name": "tiktok-web-extensions",
+  "description": "A browser extension for uploading video from Tiktok.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
